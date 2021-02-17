@@ -1,0 +1,27 @@
+.aapa-primary {
+  background-color: #01426a;
+}
+
+.aapa-lightBlue {
+  background-color: #008AD2;
+  color: #ecedf1;
+  display: flex;
+  font-weight: 500;
+  justify-content: center;
+}
+
+.aapa-orange {
+  background-color: #F99F33;
+}
+
+.aapa-yellow {
+  background-color: #EFE749;
+}
+
+.aapa-green{
+  background-color:  #7EC352;
+}
+
+.aaap-text {
+  color: #01426a;
+}
